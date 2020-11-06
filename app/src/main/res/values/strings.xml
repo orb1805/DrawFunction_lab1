@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1.0</string>
+    <string name="edges"><![CDATA[-a<A<=x<=B<a]]></string>
+    <string name="formula"><![CDATA[y^2 = x^2(a-x)/(a+x), -a<A<=x<=B<a]]></string>
+</resources>
